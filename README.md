@@ -1,7 +1,7 @@
 <h1 align="center">Ciao 👋, mi chiamo Davide Negri</h1>
 <h3 align="center">Sono un ingegnere informatico appassionato di tecnologia</h3>
 
-- 🔭 Attualmente, sto studiando **UNIFE, Ing. Informatica sull' IA**
+- 🔭 Attualmente, sto studiando presso **UNIFE, Ing. Informatica sull' IA**
 
 - 🌱 Sto imparando **Intelligenza Artificiale, Cybersecurity, IoT**
 
